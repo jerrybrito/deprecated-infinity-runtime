@@ -1,0 +1,2 @@
+# Requires: obsolete-ambiguity
+# (Not available on PyPI)
